@@ -1,7 +1,7 @@
 # Mivel-Privacy-Policy
 This is Mivel's Privacy Policy
 
-Last editted on May 1st, 2022
+Last editted on May 3rd, 2022
 
 Privacy Policy
 Your privacy is important to us. It is Mivel’s policy to respect your privacy regarding any information we may collect from you across our discord bot, known as "Mivel".
@@ -12,8 +12,8 @@ We collect your personal information provided by Discord upon usage, this includ
 Username
 User ID
 Avatar
-Discriminator
-Any data submitted to Mivel will be stored on MongoDB until deleted by a user or site administrator.
+Setup Data
+Data submitted to Mivel will not be stored on MongoDB unless you are setting up a feature.
 
 Advertising
 Mivel does not include any form of advertisment as it is a non-profit discord bot.
